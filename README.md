@@ -1,4 +1,4 @@
 # Twitter-US-Airline-Sentiment
 
-This is an analysis of a Sentiment Analysis problem hosted by Kaggle and described in the link below:
+This repo contains an end-to-end analysis and modeling of a Sentiment Classification problem hosted by Kaggle and described in the link below:
 https://www.kaggle.com/crowdflower/twitter-airline-sentiment
